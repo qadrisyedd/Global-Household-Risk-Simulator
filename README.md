@@ -4,7 +4,7 @@
 The **Global Household Risk Simulator** is a Python-based Monte Carlo simulation that uses various parameters to model household financial stress for different countries. This project calculates tail risk metrics and stress probability in order to compare downside financial risk.
 
 ### View the full project and an explination of how it works here:
-[Click Me](https://docs.google.com/document/d/1cNSnzjHtEkO-TqE0Io6NDIg7XZyJfu0q/edit?usp=sharing&ouid=105523170322060783243&rtpof=true&sd=true)
+[Click Me](https://drive.google.com/file/d/1ahCMvE4zI2rNeXHVPj8aGJMHqazjzMG5/view?usp=sharing)
 
 ## Purpose
 - Probability of a household to experience financial stress over a year
